@@ -13,3 +13,4 @@ SunPy
    help
    contribute
    blog
+   CITATION
